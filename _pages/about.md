@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer, Seoul National University · Elementary School Teacher
+subtitle: Lecturer, Seoul National University · Elementary School Teacher,
 profile:
   align: right
   image: inui_profile_pic.jpg
