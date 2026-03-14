@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: Lecturer, Seoul National University · Elementary School Teacher, Seoul Metropolitan Office of Education
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: inui_profile_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+    <p>Seoul National University</p>
+    <p>Seoul, Republic of Korea</p>
+    <p>thebrightside@snu.ac.kr</p>
+selected_papers: true
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
+  scrollable: true
+  limit: 5
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a lecturer at Seoul National University and an elementary school teacher at Seoul Metropolitan Office of Education. I received my Ph.D., M.A. in Education from Seoul National University, and B.A. in Education from Seoul National University of Education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on teacher education, ethics education, and the educational experiences of students from immigrant backgrounds and North Korean defector students. I am particularly interested in how social capital and habitus shape the schooling experiences of marginalized student populations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Seoul National University, I teach courses on Global Issues and Ethical Thinking and Studies in Unification Issues, where I examine contemporary global challenges through ethical and philosophical frameworks and explore discourses on Korean division and social integration.
+
+As an elementary school teacher since 2016, I have worked across multiple schools in Seoul, facilitating intercultural education, English language programs, and reading-based discussions to enhance students' critical thinking skills.
