@@ -401,13 +401,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-started-teaching-global-issues-and-ethical-thinking-and-studies-in-unification-issues-at-seoul-national-university-smile",
+          section: "News",},{id: "news-started-teaching-global-issues-and-ethical-thinking-and-studies-in-unification-issues-at-seoul-national-university-smile",
           title: 'Started teaching Global Issues and Ethical Thinking and Studies in Unification Issues at...',
+          description: "",
+          section: "News",},{id: "news-presenting-at-aera-2026-in-los-angeles-a-critical-discourse-analysis-of-north-korean-defector-students-navigation-of-social-capital-and-habitus-in-south-korean-education",
+          title: 'Presenting at AERA 2026 in Los Angeles: “A Critical Discourse Analysis of North...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
