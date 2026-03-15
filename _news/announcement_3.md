@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-03-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started teaching Global Issues and Ethical Thinking and Studies in Unification Issues at Seoul National University :smile:
