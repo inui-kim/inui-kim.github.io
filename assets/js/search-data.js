@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-new-publication-kim-i-amp-amp-hong-y-2025-unraveling-assumed-similarities-north-korean-defector-students-navigation-of-social-capital-and-habitus-journal-of-ethnic-and-cultural-studies-12-5-19-37",
+          title: 'New publication: Kim, I., &amp;amp;amp; Hong, Y. (2025). “Unraveling assumed similarities: North Korean...',
           description: "",
           section: "News",},{id: "news-started-teaching-global-issues-and-ethical-thinking-and-studies-in-unification-issues-at-seoul-national-university-smile",
           title: 'Started teaching Global Issues and Ethical Thinking and Studies in Unification Issues at...',
